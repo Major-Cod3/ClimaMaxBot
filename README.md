@@ -7,7 +7,7 @@ ClimaMax Bot é um bot do Telegram que fornece informações meteorológicas det
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/ClimaMaxBot.git
+   git clone https://github.com/Ricardo184/ClimaMaxBot.git
    cd ClimaMaxBot
 1. Crie um arquivo .env na raiz do projeto e adicione suas chaves de API:
    ```bash
